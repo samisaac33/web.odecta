@@ -14,13 +14,9 @@ const SummarySlide: React.FC<SlideProps> = () => {
       <div className="mb-8 md:mb-12 w-full">
         <div className="rounded-[2rem] overflow-hidden shadow-2xl border-8 border-white ring-1 ring-slate-200">
           <img 
-            src="https://drive.google.com/thumbnail?id=1ASI9kuwiEX-dI22oZD-ovehruLydwQBx&sz=w2000" 
+            src="https://drive.google.com/thumbnail?id=1rls9bpUrVQiIF8GmSdPowtUqXZqVlrH3&sz=w2000" 
             alt="Visualización Estratégica Macrolote Odecta" 
             className="w-full h-auto object-cover"
-          />
-        </div>
-        <p className="mt-3 text-[10px] md:text-xs text-slate-400 italic tracking-wide text-center md:text-left px-2">
-          Propuesta Referencial Proyecto Odecta — Esquema conceptual sujeto a validación técnica final.
         </p>
       </div>
 
