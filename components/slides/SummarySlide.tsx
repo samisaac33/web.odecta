@@ -14,7 +14,7 @@ const SummarySlide: React.FC<SlideProps> = () => {
       <div className="mb-8 md:mb-12 w-full">
         <div className="rounded-[2rem] overflow-hidden shadow-2xl border-8 border-white ring-1 ring-slate-200">
           <img 
-            src="https://drive.google.com/thumbnail?id=1rls9bpUrVQiIF8GmSdPowtUqXZqVlrH3&sz=w2000" 
+            src="https://drive.google.com/thumbnail?id=1RjGQF9wRhNDXikRJsii5Hpfgs56Dk9K0&sz=w2000" 
             alt="Visualización Estratégica Macrolote Odecta" 
             className="w-full h-auto object-cover"
           />
